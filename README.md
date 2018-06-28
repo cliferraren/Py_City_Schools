@@ -2,11 +2,12 @@
 
 ![Education](Images/education.jpg)
 
-In your latest role, you've become the Chief Data Scientist for your city's school district. In this capacity, you'll be helping the  school board and mayor make strategic decisions regarding future school budgets and priorities.
+For this case,  we are tasked to analyzed the district-wide standardized test results. We are to aggregate the data and showcase obvious trends in school performance. 
 
-As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your responsibility is to aggregate the data to and showcase obvious trends in school performance. 
+Tools used:
 
-Your final report should include each of the following:
+* Python Pandas Library
+* Jupyter Notebook.
 
 **District Summary**
 
@@ -76,13 +77,3 @@ Your final report should include each of the following:
 **Scores by School Type**
 
 * Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
-
-As final considerations:
-
-* Your script must work for both data-sets given.
-* You must use the Pandas Library and the Jupyter Notebook.
-* You must submit a link to your Jupyter Notebook with the viewable Data Frames. 
-* You must include an exported markdown version of your Notebook called  `README.md` in your GitHub repository.  
-* You must include a written description of three observable trends based on the data. 
-* See [Example Solution](PyCitySchools/PyCitySchools_Example.pdf) for a reference on the expected format. 
-
