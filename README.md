@@ -6,7 +6,7 @@ For this case,  we are tasked to analyzed the district-wide standardized test re
 
 Tools used:
 
-* Python Pandas Library
+* Python Pandas, Numpy Library
 * Jupyter Notebook.
 
 **District Summary**
